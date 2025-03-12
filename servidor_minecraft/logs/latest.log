@@ -5447,3 +5447,22 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [12Mar2025 05:15:12.921] [Server thread/WARN] [voicechat/]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
 [12Mar2025 05:15:12.939] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice chat server started at port 24454
 [12Mar2025 05:15:14.504] [Server thread/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Found Pupfish chunk at -673 ~ -1872 after 44 tries
+[12Mar2025 05:36:32.161] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@6cbda321
+[12Mar2025 05:36:32.174] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Byslender40[/127.11.249.199:59407] logged in with entity id 899 at (103.5, 64.0, 8.5)
+[12Mar2025 05:36:32.189] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Byslender40
+[12Mar2025 05:36:32.189] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Byslender40
+[12Mar2025 05:36:32.190] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Byslender40
+[12Mar2025 05:36:32.190] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Byslender40
+[12Mar2025 05:36:32.196] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Byslender40
+[12Mar2025 05:36:32.201] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Byslender40
+[12Mar2025 05:36:32.201] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Byslender40
+[12Mar2025 05:36:32.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Byslender40 joined the game
+[12Mar2025 05:36:32.643] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Byslender40 (18)
+[12Mar2025 05:36:32.645] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Byslender40
+[12Mar2025 05:36:32.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Byslender40 has made the advancement [Immersive Caves!]
+[12Mar2025 05:36:32.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Byslender40 has made the advancement [Ice and Fire]
+[12Mar2025 05:36:33.795] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 7ad0402d-97a7-34d0-bf25-b09e154ec91b was loaded
+[12Mar2025 05:41:26.838] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Byslender40 lost connection: Disconnected
+[12Mar2025 05:41:26.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Byslender40 left the game
+[12Mar2025 05:41:26.841] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 7ad0402d-97a7-34d0-bf25-b09e154ec91b was unloaded
+[12Mar2025 05:41:26.843] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Byslender40
