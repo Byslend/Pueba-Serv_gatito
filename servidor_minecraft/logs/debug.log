@@ -21171,3 +21171,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [12Mar2025 05:41:26.841] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 7ad0402d-97a7-34d0-bf25-b09e154ec91b was unloaded
 [12Mar2025 05:41:26.842] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of Byslender40
 [12Mar2025 05:41:26.843] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Byslender40
+[12Mar2025 05:45:12.903] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Mar2025 05:45:12.922] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Mar2025 05:50:12.902] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Mar2025 05:50:12.923] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
