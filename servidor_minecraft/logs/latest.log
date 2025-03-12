@@ -5466,3 +5466,20 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [12Mar2025 05:41:26.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Byslender40 left the game
 [12Mar2025 05:41:26.841] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 7ad0402d-97a7-34d0-bf25-b09e154ec91b was unloaded
 [12Mar2025 05:41:26.843] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Byslender40
+[12Mar2025 05:59:43.496] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@7722a79b
+[12Mar2025 05:59:43.534] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Byslender40[/127.11.249.199:48205] logged in with entity id 1995 at (10.699999988079071, 64.0, 83.02826638501038)
+[12Mar2025 05:59:43.535] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Byslender40
+[12Mar2025 05:59:43.535] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Byslender40
+[12Mar2025 05:59:43.535] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Byslender40
+[12Mar2025 05:59:43.535] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Byslender40
+[12Mar2025 05:59:43.540] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Byslender40
+[12Mar2025 05:59:43.544] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Byslender40
+[12Mar2025 05:59:43.544] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Byslender40
+[12Mar2025 05:59:43.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Byslender40 joined the game
+[12Mar2025 05:59:43.795] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Byslender40 (18)
+[12Mar2025 05:59:43.796] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Byslender40
+[12Mar2025 05:59:43.799] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 7ad0402d-97a7-34d0-bf25-b09e154ec91b was loaded
+[12Mar2025 06:03:31.738] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Byslender40 lost connection: Disconnected
+[12Mar2025 06:03:31.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Byslender40 left the game
+[12Mar2025 06:03:31.738] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 7ad0402d-97a7-34d0-bf25-b09e154ec91b was unloaded
+[12Mar2025 06:03:31.739] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Byslender40

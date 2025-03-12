@@ -335,17 +335,17 @@
     },
     "done": true
   },
-  "incendium:technical/using/trailblazer": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-12 05:36:34 +0000"
-    },
-    "done": false
-  },
   "comforts:sleeping_bag_red": {
     "criteria": {
       "has_the_recipe": "2025-03-12 05:36:32 +0000"
     },
     "done": true
+  },
+  "incendium:technical/using/trailblazer": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-12 05:36:34 +0000"
+    },
+    "done": false
   },
   "comforts:sleeping_bag_red_from_white": {
     "criteria": {
