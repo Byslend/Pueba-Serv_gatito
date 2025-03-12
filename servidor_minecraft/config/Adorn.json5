@@ -18,5 +18,11 @@
 		"dropLockedTradingStations": true
 	},
 	// Mod compatibility toggles (enabled: true, disabled: false)
-	"compat": { }
+	"compat": {
+		"byg": true,
+		"architects_palette": true,
+		"biomemakeover": true,
+		"biomesoplenty": true,
+		"ecologics": true
+	}
 }
